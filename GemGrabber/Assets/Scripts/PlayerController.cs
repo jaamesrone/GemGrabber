@@ -80,12 +80,12 @@ public class PlayerController : MonoBehaviour
         cameraOffset = Quaternion.Euler(0, direction * rotationAngle, 0) * cameraOffset;
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision collision)
     {
-        if (other.CompareTag("Gem"))
+        if (collision.gameObject.tag == ("Gem"))
         {
             GameManager.Instance.score++;
-            Destroy(other.gameObject);
+            Destroy(collision.gameObject);
         }
     }
 

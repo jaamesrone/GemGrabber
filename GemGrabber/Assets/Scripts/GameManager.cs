@@ -9,6 +9,8 @@ using System.IO;
 public class GameManager : Singleton<GameManager> //GameManager talks/inherit to singleton
 {
     public int score;
+
+   // private text score;
     // Start is called before the first frame update
     void Start()
     {
