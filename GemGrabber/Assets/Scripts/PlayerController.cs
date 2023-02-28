@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     private Vector3 cameraOffset;
     private bool isJumping = false;
     private float jumpTimer = 0f;
+    int score;
 
     void Start()
     {
@@ -78,4 +79,14 @@ public class PlayerController : MonoBehaviour
         transform.Rotate(Vector3.up, direction * rotationAngle);
         cameraOffset = Quaternion.Euler(0, direction * rotationAngle, 0) * cameraOffset;
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Gem"))
+        {
+            GameManager.Instance.score++;
+            Destroy(other.gameObject);
+        }
+    }
+
 }

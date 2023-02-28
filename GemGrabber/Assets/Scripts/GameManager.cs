@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.IO;
+
+
+public class GameManager : Singleton<GameManager> //GameManager talks/inherit to singleton
+{
+    public int score;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
