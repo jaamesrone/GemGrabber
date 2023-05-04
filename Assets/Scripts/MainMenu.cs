@@ -56,6 +56,7 @@ public class MainMenu : MonoBehaviour
 
     public void GoToMainMenu()
     {
+        Resume(); // if this is not in the game will freeze when trying to load either the level or the tutorial.
         SceneManager.LoadScene(0);
         GameManager.Instance.DestroyEveryThing();
     }
