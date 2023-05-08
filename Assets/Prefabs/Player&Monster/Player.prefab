@@ -128,18 +128,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 223ea4b1b70e44175a099f4275639bd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sideStepDistance: 2
+  sideStepDistance: 8
   rotationAngle: 90
   rotationSpeed: 5
   cameraFollowSpeed: 3
   jumpHeight: 10
   jumpTime: 0.5
+  respawnTime: 3
   rb: {fileID: 8176531721640381416}
   speed: 10
   boostTimer: 3
-  wallTimer: 0
+  decreaseTime: 0
+  countDownTimer: 5
+  gravityTimer: 0
   boosting: 0
-  wallTouch: 0
+  gravityOn: 0
+  decreaseBoosting: 0
 --- !u!114 &8176531721640381418
 MonoBehaviour:
   m_ObjectHideFlags: 0

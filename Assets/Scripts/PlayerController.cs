@@ -80,7 +80,16 @@ public class PlayerController : MonoBehaviour
         {
             transform.Translate(transform.right * sideStepDistance * Time.deltaTime, Space.World);
         }
-        
+        // strafe left or right based on arrow keys
+        else if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.Translate(-transform.right * sideStepDistance * Time.deltaTime, Space.World);
+        }
+        else if (Input.GetKey(KeyCode.RightArrow))
+        {
+            transform.Translate(transform.right * sideStepDistance * Time.deltaTime, Space.World);
+        }
+
         if (isCrouching)
         {
             crouchTimer += Time.deltaTime;
