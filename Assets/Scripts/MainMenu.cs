@@ -26,6 +26,7 @@ public class MainMenu : MonoBehaviour
 
     public void LoadGame()
     {
+        Time.timeScale = 1; // if the game starts without this and you load to another scene the timescale goes back to 0 so with this the level will always start with timescale at 1
         SceneManager.LoadScene(3);
         GameManager.Instance.DestroyEveryThing();
     }
@@ -41,6 +42,7 @@ public class MainMenu : MonoBehaviour
     }
     public void HowToPlay()
     {
+        Time.timeScale = 1; // if the game starts without this and you load to another scene the timescale goes back to 0 so with this the level will always start with timescale at 1
         SceneManager.LoadScene(5);
     }
 

@@ -147,6 +147,8 @@ public class GameManager : Singleton<GameManager> //GameManager talks/inherit to
             Time.timeScale = 1;
             SceneManager.UnloadSceneAsync("PauseMenu");
         }
+
+        Debug.Log("Time.timeScale: " + Time.timeScale);
     }
 
     public void Respawn()
