@@ -163,9 +163,10 @@ public class GameManager : Singleton<GameManager> //GameManager talks/inherit to
             SceneManager.LoadScene(4);
             lives = 3;
             score = 0;
+            DestroyEveryThing();
         }
     }
-    private void SaveGame()
+    public void SaveGame()
     {
         PlayerPrefs.SetFloat("Time Alive", timer);
         PlayerPrefs.SetInt("Score", score);

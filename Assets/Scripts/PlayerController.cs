@@ -181,7 +181,11 @@ public class PlayerController : MonoBehaviour
         }
         else if (collision.gameObject.tag == ("Goal"))
         {
-            SceneManager.LoadScene(0);
+            GameManager.Instance.SaveGame();
+            SceneManager.LoadScene(4);
+            GameManager.Instance.lives = 3;
+            GameManager.Instance.score = 0;
+            GameManager.Instance.DestroyEveryThing();
         }
         else if (collision.gameObject.tag == ("SpeedBoost"))
         {
