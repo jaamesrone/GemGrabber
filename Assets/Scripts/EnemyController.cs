@@ -1,5 +1,7 @@
-using UnityEngine;
 
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 public class EnemyController : MonoBehaviour
 {
     public float speed = 3f; // This is the speed at which the enemy will move
@@ -17,10 +19,6 @@ public class EnemyController : MonoBehaviour
         {
             // Get the player's transform component
             player = playerObject.transform;
-        }
-        else
-        {
-            Debug.LogError("Could not find object with tag '" + playerTag + "'!");
         }
     }
 
