@@ -19,6 +19,7 @@ public class EnemyController : MonoBehaviour
         {
             // Get the player's transform component
             player = playerObject.transform;
+          //  Debug.Log(player.)
         }
     }
 
