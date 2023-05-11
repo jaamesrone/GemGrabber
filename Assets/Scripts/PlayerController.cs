@@ -171,7 +171,7 @@ public class PlayerController : MonoBehaviour
         }
         if (collision.gameObject.tag == ("BadGem"))
         {
-            GameManager.Instance.score--;
+            GameManager.Instance.score -= 3;
             collision.gameObject.SetActive(false);
         }
         if (collision.gameObject.tag == ("RareGem"))
