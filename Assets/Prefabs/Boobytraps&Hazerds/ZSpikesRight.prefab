@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 3335334040740968595}
   m_Layer: 0
   m_Name: leftWallSpike (40)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 3335334040743227715}
   m_Layer: 0
   m_Name: leftWallSpike (54)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 3335334040786142848}
   m_Layer: 0
   m_Name: leftWallSpike (52)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -329,7 +329,7 @@ GameObject:
   - component: {fileID: 3335334040788636535}
   m_Layer: 0
   m_Name: leftWallSpike (51)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -424,7 +424,7 @@ GameObject:
   - component: {fileID: 3335334040861464009}
   m_Layer: 0
   m_Name: leftWallSpike (84)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -519,7 +519,7 @@ GameObject:
   - component: {fileID: 3335334040875094254}
   m_Layer: 0
   m_Name: leftWallSpike (97)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -614,7 +614,7 @@ GameObject:
   - component: {fileID: 3335334040898883041}
   m_Layer: 0
   m_Name: leftWallSpike (18)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -709,7 +709,7 @@ GameObject:
   - component: {fileID: 3335334040936269424}
   m_Layer: 0
   m_Name: leftWallSpike (89)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -804,7 +804,7 @@ GameObject:
   - component: {fileID: 3335334040944249134}
   m_Layer: 0
   m_Name: leftWallSpike (29)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -899,7 +899,7 @@ GameObject:
   - component: {fileID: 3335334040952356213}
   m_Layer: 0
   m_Name: leftWallSpike (41)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -994,7 +994,7 @@ GameObject:
   - component: {fileID: 3335334040984603002}
   m_Layer: 0
   m_Name: leftWallSpike (23)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1089,7 +1089,7 @@ GameObject:
   - component: {fileID: 3335334041017750773}
   m_Layer: 0
   m_Name: leftWallSpike (69)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1184,7 +1184,7 @@ GameObject:
   - component: {fileID: 3335334041043093638}
   m_Layer: 0
   m_Name: leftWallSpike (72)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1279,7 +1279,7 @@ GameObject:
   - component: {fileID: 3335334041056203218}
   m_Layer: 0
   m_Name: leftWallSpike (49)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1374,7 +1374,7 @@ GameObject:
   - component: {fileID: 3335334041057408080}
   m_Layer: 0
   m_Name: leftWallSpike (94)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1469,7 +1469,7 @@ GameObject:
   - component: {fileID: 3335334041071134108}
   m_Layer: 0
   m_Name: leftWallSpike (17)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1564,7 +1564,7 @@ GameObject:
   - component: {fileID: 3335334041081873602}
   m_Layer: 0
   m_Name: leftWallSpike (73)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1659,7 +1659,7 @@ GameObject:
   - component: {fileID: 3335334041082847255}
   m_Layer: 0
   m_Name: leftWallSpike (5)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1754,7 +1754,7 @@ GameObject:
   - component: {fileID: 3335334041084266861}
   m_Layer: 0
   m_Name: leftWallSpike (71)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1849,7 +1849,7 @@ GameObject:
   - component: {fileID: 3335334041087918727}
   m_Layer: 0
   m_Name: leftWallSpike (1)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1944,7 +1944,7 @@ GameObject:
   - component: {fileID: 3335334041108440812}
   m_Layer: 0
   m_Name: leftWallSpike (3)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2039,7 +2039,7 @@ GameObject:
   - component: {fileID: 3335334041114013978}
   m_Layer: 0
   m_Name: leftWallSpike (93)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2134,7 +2134,7 @@ GameObject:
   - component: {fileID: 3335334041143481312}
   m_Layer: 0
   m_Name: leftWallSpike (16)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2229,7 +2229,7 @@ GameObject:
   - component: {fileID: 3335334041144771360}
   m_Layer: 0
   m_Name: leftWallSpike (63)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2324,7 +2324,7 @@ GameObject:
   - component: {fileID: 3335334041179033173}
   m_Layer: 0
   m_Name: leftWallSpike (59)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2419,7 +2419,7 @@ GameObject:
   - component: {fileID: 3335334041196206637}
   m_Layer: 0
   m_Name: leftWallSpike (21)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2514,7 +2514,7 @@ GameObject:
   - component: {fileID: 3335334041198567042}
   m_Layer: 0
   m_Name: leftWallSpike (19)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2609,7 +2609,7 @@ GameObject:
   - component: {fileID: 3335334041216021605}
   m_Layer: 0
   m_Name: leftWallSpike (80)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2704,7 +2704,7 @@ GameObject:
   - component: {fileID: 3335334041219079645}
   m_Layer: 0
   m_Name: leftWallSpike (86)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2799,7 +2799,7 @@ GameObject:
   - component: {fileID: 3335334041269118978}
   m_Layer: 0
   m_Name: leftWallSpike (53)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2894,7 +2894,7 @@ GameObject:
   - component: {fileID: 3335334041286009036}
   m_Layer: 0
   m_Name: leftWallSpike (13)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2989,7 +2989,7 @@ GameObject:
   - component: {fileID: 3335334041299263464}
   m_Layer: 0
   m_Name: leftWallSpike (74)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3084,7 +3084,7 @@ GameObject:
   - component: {fileID: 3335334041334291052}
   m_Layer: 0
   m_Name: leftWallSpike (77)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3179,7 +3179,7 @@ GameObject:
   - component: {fileID: 3335334041352129416}
   m_Layer: 0
   m_Name: leftWallSpike (26)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3274,7 +3274,7 @@ GameObject:
   - component: {fileID: 3335334041391587558}
   m_Layer: 0
   m_Name: leftWallSpike (78)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3369,7 +3369,7 @@ GameObject:
   - component: {fileID: 3335334041408155250}
   m_Layer: 0
   m_Name: leftWallSpike (37)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3464,7 +3464,7 @@ GameObject:
   - component: {fileID: 3335334041443270205}
   m_Layer: 0
   m_Name: leftWallSpike (15)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3710,7 +3710,7 @@ GameObject:
   - component: {fileID: 3335334041469063620}
   m_Layer: 0
   m_Name: leftWallSpike (38)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3805,7 +3805,7 @@ GameObject:
   - component: {fileID: 3335334041538811802}
   m_Layer: 0
   m_Name: leftWallSpike (34)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3900,7 +3900,7 @@ GameObject:
   - component: {fileID: 3335334041593394558}
   m_Layer: 0
   m_Name: leftWallSpike (9)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3995,7 +3995,7 @@ GameObject:
   - component: {fileID: 3335334041595811036}
   m_Layer: 0
   m_Name: leftWallSpike (90)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4090,7 +4090,7 @@ GameObject:
   - component: {fileID: 3335334041609421259}
   m_Layer: 0
   m_Name: leftWallSpike (64)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4185,7 +4185,7 @@ GameObject:
   - component: {fileID: 3335334041667311175}
   m_Layer: 0
   m_Name: leftWallSpike (43)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4280,7 +4280,7 @@ GameObject:
   - component: {fileID: 3335334041682768487}
   m_Layer: 0
   m_Name: leftWallSpike (50)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4375,7 +4375,7 @@ GameObject:
   - component: {fileID: 3335334041693556667}
   m_Layer: 0
   m_Name: leftWallSpike (14)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4470,7 +4470,7 @@ GameObject:
   - component: {fileID: 3335334041701740552}
   m_Layer: 0
   m_Name: leftWallSpike (48)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4565,7 +4565,7 @@ GameObject:
   - component: {fileID: 3335334041710462027}
   m_Layer: 0
   m_Name: leftWallSpike (98)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4660,7 +4660,7 @@ GameObject:
   - component: {fileID: 3335334041710656067}
   m_Layer: 0
   m_Name: leftWallSpike (57)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4755,7 +4755,7 @@ GameObject:
   - component: {fileID: 3335334041712225458}
   m_Layer: 0
   m_Name: leftWallSpike (76)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4850,7 +4850,7 @@ GameObject:
   - component: {fileID: 3335334041734963888}
   m_Layer: 0
   m_Name: leftWallSpike (32)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4945,7 +4945,7 @@ GameObject:
   - component: {fileID: 3335334041735871931}
   m_Layer: 0
   m_Name: leftWallSpike (99)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5040,7 +5040,7 @@ GameObject:
   - component: {fileID: 3335334041752543346}
   m_Layer: 0
   m_Name: leftWallSpike (85)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5135,7 +5135,7 @@ GameObject:
   - component: {fileID: 3335334041760985262}
   m_Layer: 0
   m_Name: leftWallSpike (101)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5230,7 +5230,7 @@ GameObject:
   - component: {fileID: 3335334041768703295}
   m_Layer: 0
   m_Name: leftWallSpike (60)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5325,7 +5325,7 @@ GameObject:
   - component: {fileID: 3335334041799893291}
   m_Layer: 0
   m_Name: leftWallSpike (42)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5420,7 +5420,7 @@ GameObject:
   - component: {fileID: 3335334041801766531}
   m_Layer: 0
   m_Name: leftWallSpike (75)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5515,7 +5515,7 @@ GameObject:
   - component: {fileID: 3335334041816510891}
   m_Layer: 0
   m_Name: leftWallSpike (55)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5610,7 +5610,7 @@ GameObject:
   - component: {fileID: 3335334041850200192}
   m_Layer: 0
   m_Name: leftWallSpike (8)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5705,7 +5705,7 @@ GameObject:
   - component: {fileID: 3335334041853359202}
   m_Layer: 0
   m_Name: leftWallSpike (12)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5800,7 +5800,7 @@ GameObject:
   - component: {fileID: 3335334041858865492}
   m_Layer: 0
   m_Name: leftWallSpike (10)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5895,7 +5895,7 @@ GameObject:
   - component: {fileID: 3335334041861607524}
   m_Layer: 0
   m_Name: leftWallSpike (25)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5990,7 +5990,7 @@ GameObject:
   - component: {fileID: 3335334041883189591}
   m_Layer: 0
   m_Name: leftWallSpike (2)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6085,7 +6085,7 @@ GameObject:
   - component: {fileID: 3335334041884457349}
   m_Layer: 0
   m_Name: leftWallSpike (62)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6180,7 +6180,7 @@ GameObject:
   - component: {fileID: 3335334041889513056}
   m_Layer: 0
   m_Name: leftWallSpike (58)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6275,7 +6275,7 @@ GameObject:
   - component: {fileID: 3335334041916643519}
   m_Layer: 0
   m_Name: leftWallSpike (79)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6370,7 +6370,7 @@ GameObject:
   - component: {fileID: 3335334041934880707}
   m_Layer: 0
   m_Name: leftWallSpike (35)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6465,7 +6465,7 @@ GameObject:
   - component: {fileID: 3335334041946810221}
   m_Layer: 0
   m_Name: leftWallSpike (36)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6560,7 +6560,7 @@ GameObject:
   - component: {fileID: 3335334042015058260}
   m_Layer: 0
   m_Name: leftWallSpike (82)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6655,7 +6655,7 @@ GameObject:
   - component: {fileID: 3335334042018908085}
   m_Layer: 0
   m_Name: leftWallSpike (95)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6845,7 +6845,7 @@ GameObject:
   - component: {fileID: 3335334042037426712}
   m_Layer: 0
   m_Name: leftWallSpike
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6940,7 +6940,7 @@ GameObject:
   - component: {fileID: 3335334042081814228}
   m_Layer: 0
   m_Name: leftWallSpike (4)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7035,7 +7035,7 @@ GameObject:
   - component: {fileID: 3335334042095166046}
   m_Layer: 0
   m_Name: leftWallSpike (33)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7130,7 +7130,7 @@ GameObject:
   - component: {fileID: 3335334042108291642}
   m_Layer: 0
   m_Name: leftWallSpike (100)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7225,7 +7225,7 @@ GameObject:
   - component: {fileID: 3335334042123624903}
   m_Layer: 0
   m_Name: leftWallSpike (88)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7320,7 +7320,7 @@ GameObject:
   - component: {fileID: 3335334042188117344}
   m_Layer: 0
   m_Name: leftWallSpike (70)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7415,7 +7415,7 @@ GameObject:
   - component: {fileID: 3335334042244799668}
   m_Layer: 0
   m_Name: leftWallSpike (6)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7510,7 +7510,7 @@ GameObject:
   - component: {fileID: 3335334042282616376}
   m_Layer: 0
   m_Name: leftWallSpike (44)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7605,7 +7605,7 @@ GameObject:
   - component: {fileID: 3335334042289174570}
   m_Layer: 0
   m_Name: leftWallSpike (81)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7700,7 +7700,7 @@ GameObject:
   - component: {fileID: 3335334042315312742}
   m_Layer: 0
   m_Name: leftWallSpike (7)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7795,7 +7795,7 @@ GameObject:
   - component: {fileID: 3335334042315737249}
   m_Layer: 0
   m_Name: leftWallSpike (22)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7890,7 +7890,7 @@ GameObject:
   - component: {fileID: 3335334042391142157}
   m_Layer: 0
   m_Name: leftWallSpike (39)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7985,7 +7985,7 @@ GameObject:
   - component: {fileID: 3335334042442804423}
   m_Layer: 0
   m_Name: leftWallSpike (65)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8080,7 +8080,7 @@ GameObject:
   - component: {fileID: 3335334042447325745}
   m_Layer: 0
   m_Name: leftWallSpike (68)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8175,7 +8175,7 @@ GameObject:
   - component: {fileID: 3335334042448737758}
   m_Layer: 0
   m_Name: leftWallSpike (45)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8300,7 +8300,7 @@ GameObject:
   - component: {fileID: 3335334042466766768}
   m_Layer: 0
   m_Name: leftWallSpike (61)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8395,7 +8395,7 @@ GameObject:
   - component: {fileID: 3335334042497454506}
   m_Layer: 0
   m_Name: leftWallSpike (11)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8490,7 +8490,7 @@ GameObject:
   - component: {fileID: 3335334042512238714}
   m_Layer: 0
   m_Name: leftWallSpike (20)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8585,7 +8585,7 @@ GameObject:
   - component: {fileID: 3335334042523947347}
   m_Layer: 0
   m_Name: leftWallSpike (28)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8680,7 +8680,7 @@ GameObject:
   - component: {fileID: 3335334042533832617}
   m_Layer: 0
   m_Name: leftWallSpike (47)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8775,7 +8775,7 @@ GameObject:
   - component: {fileID: 3335334042616105204}
   m_Layer: 0
   m_Name: leftWallSpike (67)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8870,7 +8870,7 @@ GameObject:
   - component: {fileID: 3335334042647771057}
   m_Layer: 0
   m_Name: leftWallSpike (91)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8965,7 +8965,7 @@ GameObject:
   - component: {fileID: 3335334042681973940}
   m_Layer: 0
   m_Name: leftWallSpike (66)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9060,7 +9060,7 @@ GameObject:
   - component: {fileID: 3335334042688666270}
   m_Layer: 0
   m_Name: leftWallSpike (92)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9155,7 +9155,7 @@ GameObject:
   - component: {fileID: 3335334042693107452}
   m_Layer: 0
   m_Name: leftWallSpike (87)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9250,7 +9250,7 @@ GameObject:
   - component: {fileID: 3335334042694742418}
   m_Layer: 0
   m_Name: leftWallSpike (46)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9377,7 +9377,7 @@ GameObject:
   - component: {fileID: 3335334042697137432}
   m_Layer: 0
   m_Name: leftWallSpike (24)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9472,7 +9472,7 @@ GameObject:
   - component: {fileID: 3335334042738403559}
   m_Layer: 0
   m_Name: leftWallSpike (27)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9567,7 +9567,7 @@ GameObject:
   - component: {fileID: 3335334042740598636}
   m_Layer: 0
   m_Name: leftWallSpike (56)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9662,7 +9662,7 @@ GameObject:
   - component: {fileID: 3335334042764340380}
   m_Layer: 0
   m_Name: leftWallSpike (30)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9757,7 +9757,7 @@ GameObject:
   - component: {fileID: 3335334042779527109}
   m_Layer: 0
   m_Name: leftWallSpike (31)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9852,7 +9852,7 @@ GameObject:
   - component: {fileID: 3335334042781720942}
   m_Layer: 0
   m_Name: leftWallSpike (83)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9947,7 +9947,7 @@ GameObject:
   - component: {fileID: 3335334042814791868}
   m_Layer: 0
   m_Name: leftWallSpike (96)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
