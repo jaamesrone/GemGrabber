@@ -28,17 +28,14 @@ public class GameManager : Singleton<GameManager> //GameManager talks/inherit to
     public GameObject PlayerPrefab;
     private PlayerController playerScript;
 
-
-    public override void Awake()
+    private void OnEnable()
     {
-        base.Awake();
         Player = Instantiate(PlayerPrefab, SpawnPoint.position, SpawnPoint.rotation);
-
     }
-    // private text score;
-    // Start is called before the first frame update
+
     void Start()
     {
+        
         playerScript = Player.transform.GetComponent<PlayerController>();
         DontDestroyOnLoad(GameObject.Find("Canvas"));
         DontDestroyOnLoad(Player); 

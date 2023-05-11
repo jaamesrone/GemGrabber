@@ -13,7 +13,7 @@ public class EnemyController : MonoBehaviour
     void Start()
     {
         // Find the player object using its tag
-        GameObject playerObject = GameObject.FindWithTag(playerTag);
+        GameObject playerObject = GameManager.Instance.Player;
 
         if (playerObject != null)
         {
@@ -21,6 +21,7 @@ public class EnemyController : MonoBehaviour
             player = playerObject.transform;
           //  Debug.Log(player.)
         }
+        Debug.Log(playerObject, playerObject);
     }
 
     void Update()

@@ -111,8 +111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f2219a147a37401999abdea5d162581, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  followRadius: 10
+  speed: 5
+  followRadius: 30
   playerTag: Player
 --- !u!1 &4299351060333117099
 GameObject:
